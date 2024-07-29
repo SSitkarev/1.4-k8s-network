@@ -26,6 +26,6 @@
 
 Продемонстрировать доступ с помощью браузера или curl с локального компьютера. Предоставить манифест и Service в решении, а также скриншоты или вывод команды п.2.
 
-![Задание2](https://github.com/SSitkarev/1.4-k8s-network/blob/main/img/2.jpg)
+![Задание2](https://github.com/SSitkarev/1.4-k8s-network/blob/main/img/2-1.jpg)
 
-![Задание2](https://github.com/SSitkarev/1.4-k8s-network/blob/main/img/3.jpg)
+![Задание2](https://github.com/SSitkarev/1.4-k8s-network/blob/main/img/2-2.jpg)
