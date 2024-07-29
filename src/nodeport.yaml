@@ -11,8 +11,8 @@ spec:
     - port: 80
       name: nginx-port
       targetPort: 80
-      nodePort: 30007
+      nodePort: 30001
     - port: 8080
       name: multitool-port
       targetPort: 8080
-      nodePort: 30008
+      nodePort: 30002
